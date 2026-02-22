@@ -26,10 +26,8 @@ A powerful tool to analyze resumes and match them with job descriptions using ad
 
 ## Screenshots
 
-```markdown
 ![Resume Parsing Screenshot](resume_parsing.png)
 ![Job Matching Screenshot](job_matching.png)
-```
 ## License
 
 This project is licensed under the MIT License.
