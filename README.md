@@ -24,6 +24,10 @@ A powerful tool to analyze resumes and match them with job descriptions using ad
 3. **Access the API documentation:**
     - Open [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) in your browser.
 
+## Screenshots
+
+![Resume Parsing Screenshot](Screenshot%202026-02-22%20at%209.11.03%E2%80%AFPM.png)
+![Job Matching Screenshot](Screenshot%202026-02-22%20at%209.11.22%E2%80%AFPM.png)
 ## License
 
 This project is licensed under the MIT License.
